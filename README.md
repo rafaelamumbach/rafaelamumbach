@@ -18,3 +18,4 @@
   
 </div>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelamumbach)](https://github.com/rafaelamumbach/github-readme-stats)
