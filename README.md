@@ -2,8 +2,6 @@
 
 **Aprendendo programação em linguagem C e Python :D**
 
-**Bolsista de um dos cursos de UX Design do Google** 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
