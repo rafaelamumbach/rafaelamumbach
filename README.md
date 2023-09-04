@@ -1,6 +1,6 @@
-**Atualmente, cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul**
+**Cursando o primeiro semestre de Análise e Desenv. de Sistemas na Universidade de Caxias do Sul**
 
-**e Bolsista de um dos cursos de UX Design do Google** 
+**Bolsista de um dos cursos de UX Design do Google** 
 
 **Aprendendo programação em linguagem C e Python :D**
 
