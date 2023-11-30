@@ -1,4 +1,5 @@
-**Olá! Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul**
+**Olá! Estou cursando o primeiro semestre de Análise e Desenvolvimento**
+**de Sistemas na Universidade de Caxias do Sul**
 
 **Estou aprendendo lógica de programação em linguagem C, Python e ADVPL :D**
 
