@@ -1,4 +1,4 @@
-*Análise e Desenvolvimento de Sistemas | UCS*
+*Análise e Desenvolvimento de Sistemas | UCS*<br>
 **Olá! Estou buscando pelo meu desenvolvimento em diversas áreas da programação no momento, até que eu encontre a minha favorita hehe. A curiosidade é o que me move!**
 **Logo, aqui tem muitas coisas das quais eu estudo: C, HTML/CSS/JS e também ADVPL.**
 **Estou focada em estudar e aprimorar minha lógica de programação mas também ampliar meus objetivos.  Por isso, recentemente, comecei meus estudos em Angular!**
