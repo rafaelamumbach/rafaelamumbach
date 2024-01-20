@@ -1,5 +1,5 @@
-**Cursando o segundo semestre de Análise e Desenvolvimento**
-**de Sistemas na Universidade de Caxias do Sul**
+**Análise e Desenvolvimento de Sistemas 2/5**
+****
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
