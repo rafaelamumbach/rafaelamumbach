@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo fundamentos de banco de dados, programação web e frameworks
 
-- 💻 Iniciando o aprendizado em UX design
+- 💻 Iniciando em UX design
 
 - ✉️ rafaelambuenos@gmail.com
 
