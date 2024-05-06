@@ -1,7 +1,13 @@
-*Análise e Desenvolvimento de Sistemas | UCS* <br>
-**Olá! Estou buscando pelo meu desenvolvimento em diversas áreas da programação no momento, até que eu encontre a minha favorita hehe. A curiosidade é o que me move! Logo, aqui tem muitas coisas das quais eu estudo: C, Python, HTML/CSS/JS e também ADVPL. Estou focada em estudar e aprimorar minha lógica de programação mas também ampliar meus objetivos.  Por isso, recentemente, comecei meus estudos em Angular! Estou ansiosa para compartilhar minha evolução aqui. :)** <br>
+<h1 align="center">Saudações! 👾 Me chamo Rafaela Mumbach Buenos</h1>
+<h3 align="center">Estudante do segundo semestre de Análise e Desenvolvimento de Sistemas - UCS </h3>
 
-console.log('♡');
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelamumbach" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelamumbach" alt="rafaelamumbach" /></a> </p>
+
+- 🌱
+
+- 📫 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
