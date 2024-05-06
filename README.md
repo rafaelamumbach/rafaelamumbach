@@ -28,10 +28,10 @@
   <a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamumbach&theme=transparent&show_icons=true&locale=en&layout=compact" alt="rafaelamumbach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamumbach&theme=transparent&show_icons=true&locale=en&layout=compact&color=FF69B4" alt="rafaelamumbach" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&theme=transparent&show_icons=true&locale=en" alt="rafaelamumbach" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&theme=transparent&show_icons=true&locale=en&color=FF69B4" alt="rafaelamumbach" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelamumbach&theme=transparent" alt="rafaelamumbach" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelamumbach&theme=transparent&color=FF69B4" alt="rafaelamumbach" /></p>
 
