@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamumbach&color=FF69B4&theme=transparent&show_icons=true&locale=en&layout=compact" alt="rafaelamumbach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamumbach&theme=transparent&theme=pink&show_icons=true&locale=en&layout=compact" alt="rafaelamumbach" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&theme=transparent&show_icons=true&locale=en" alt="rafaelamumbach" /></p>
