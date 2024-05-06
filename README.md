@@ -9,7 +9,7 @@
 
 - ✉️ rafaelambuenos@gmail.com
 
-<h4 align="left">Linguagens e tecnologias: </h4>
+<h4 align="left">Linguagens e tecnologias </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
   
 </div>
-<h4 align="left">Conexões: </h4>
+<h4 align="left">Conexões </h4>
 
 
  <a href="https://discord.com/invite/EHKAKUgcUr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -30,3 +30,10 @@
 </div>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelamumbach)](https://github.com/rafaelamumbach/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamumbach&show_icons=true&locale=en&layout=compact" alt="rafaelamumbach" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&locale=en" alt="rafaelamumbach" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelamumbach&" alt="rafaelamumbach" /></p>
+
