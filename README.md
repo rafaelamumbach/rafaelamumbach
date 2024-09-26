@@ -18,6 +18,7 @@
 <div>
   <a href="https://github.com/rafaelamumbach>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
