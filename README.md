@@ -1,4 +1,4 @@
-<h2 align="center">printf("Olá, mundo! Me chamo Rafaela Mumbach Buenos");</h2>
+<h1 align="center">printf("Olá, mundo! Me chamo Rafaela Mumbach Buenos");</h1>
 <h1 align="center">Estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas - UCS </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /> </p>
