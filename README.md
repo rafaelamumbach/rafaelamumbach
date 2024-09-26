@@ -35,4 +35,4 @@
 ##
 
 ![Snake animation](https://github.com/rafaelamumbach/rafaelamumbach/blob/output/github-contribution-grid-snake.svg)
-[!readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelamumbach&repo=rafaelamumbach&theme=dracula)](https://github.com/rafaelamumbach/rafaelamumbach)
+[!readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelamumbach&repo=rafaelamumbach&theme=react)]
