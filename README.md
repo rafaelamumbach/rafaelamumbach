@@ -10,18 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /> </p>
 
 - 🌱 Aprendendo fundamentos de banco de dados, programação web e frameworks
-
 - 💻 Iniciando em UX design
-
 - ✉️ rafaelambuenos@gmail.com
 
-<div>
-  <a href="https://github.com/rafaelamumbach>
+<div align="center" style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
 
 <h4 align="left">Linguagens e tecnologias </h4>
 
@@ -45,3 +40,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake.svg">
 </picture>
+
