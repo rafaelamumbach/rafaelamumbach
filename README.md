@@ -32,13 +32,7 @@
 
 <h4 align="left">Conexões </h4>
 <a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
 ##
-         
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelamumbach/rafaelamumbach/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+
+![Snake animation](https://github.com/rafaelamumbach/rafaelamumbach/blob/output/github-contribution-grid-snake.svg)
+[!readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelamumbach&repo=rafaelamumbach&theme=dracula)](https://github.com/rafaelamumbach/rafaelamumbach)
