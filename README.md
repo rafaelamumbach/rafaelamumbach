@@ -34,4 +34,4 @@
 <a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ##
 
-![Snake animation](https://github.com/rafaelamumbach/rafaelamumbach/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafaelamumbach/rafaelamumbach/blob/output/github-contribution-grid-snake.svg)
