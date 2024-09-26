@@ -1,5 +1,11 @@
-<h3 align="center">printf("Olá, mundo! Me chamo Rafaela Mumbach Buenos");</h3>
-<h3 align="center">Estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas - UCS </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<h4 align="center">printf("Olá, mundo! Me chamo Rafaela Mumbach Buenos");</h4>
+<h4 align="center">Estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas - UCS </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /> </p>
 
