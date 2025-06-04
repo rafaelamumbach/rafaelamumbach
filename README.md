@@ -1,16 +1,16 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <h3 align="center">printf("Olá, mundo!");</h3>
-<h4 align="center">Estudante do curso de Análise e Desenvolvimento de Sistemas | UCS </h4>
+<h4 align="center">Estudante e estagiária de desenvolvimento de software </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /> </p>
 
-- 🌱 Aprendendo Fundamentos de Segurança Cibernética
-- 🤓 Iniciando na carreira de Desenvolvedora Fullstack
+- 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas na UCS
+- 🤓 Estagiária de desenvolvimento de software na TOTVS
 - 💻 Iniciando em UX/UI Design
 - ✉️ rafaelambuenos@gmail.com
 
