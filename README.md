@@ -11,7 +11,7 @@
 
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas na UCS
 - 🤓 Estagiária de desenvolvimento de software na TOTVS
-- 💻 Iniciando em UX/UI Design
+- 💻 Iniciando no desenvolvimento backend em Progress
 - ✉️ rafaelambuenos@gmail.com
 
 <div align="center" style="display: flex; justify-content: center;">
