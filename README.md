@@ -11,8 +11,8 @@
 
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas na UCS
 - 🤓 Estagiária de desenvolvimento de software na TOTVS
-- 💻 Aprendendo Angular e PO-UI
-- 🚀 Iniciando em Progress
+- 💻 Aprendendo sobre testes automatizados
+- 🚀 Iniciante em Q&A
 
 <div align="center" style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
