@@ -14,8 +14,8 @@
 - 💻 Iniciando os estudos em Cypress
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=catppuccin_mocha"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=catppuccin_mocha"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <h4 align="left">Linguagens e tecnologias </h4>
