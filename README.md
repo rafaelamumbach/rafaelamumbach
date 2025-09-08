@@ -7,7 +7,7 @@
 <h3 align="center"><code>printf("Olá, mundo!");</code></h3>
 <h4 align="center">Estudante e estagiária de desenvolvimento de software ⊹ ࣪ ˖</h4>
 
-<p align="right">
+<p align="left">
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⠉⠉⠻⣦⡀⠀⠀⠀⠀⠀⣴⠞⠛⠻⣦⡀⠀⠀⠀
