@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f17ea1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF9CCE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -14,8 +14,8 @@
 - 💻 Iniciando os estudos em Cypress
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&bg_color=0d1117&text_color=c9d1d9&title_color=FF9CCE&icon_color=FF9CCE""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&bg_color=0d1117&text_color=c9d1d9&title_color=FF9CCE&icon_color=FF9CCE"/>
 </div>
 
 <h4 align="left">Linguagens e tecnologias </h4>
