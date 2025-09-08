@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas na UCS<br>
-- 🤓 Estagiária de desenvolvimento de software na TOTVS<br>
+- 👩🏻‍💻 Estagiária de desenvolvimento de software na TOTVS<br>
 - 📝 Iniciando os estudos em Cypress<br>
 
 
