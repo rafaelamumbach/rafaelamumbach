@@ -7,12 +7,11 @@
 <h3 align="center"><code>printf("Olá, mundo!");</code></h3>
 <h4 align="center">Estudante e estagiária de desenvolvimento de software </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF69B4&style=flat" alt="rafaelamumbach" /></p>
 
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas na UCS
 - 🤓 Estagiária de desenvolvimento de software na TOTVS
-- 💻 Aprendendo sobre testes automatizados
-- 🚀 Iniciante em Q&A
+- 💻 Iniciando os estudos em Cypress
 
 <div align="center" style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&theme=dracula"/>
