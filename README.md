@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
 
-<b><span style="color:#FF9CCE;">⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS</span></b><br>
-<b><span style="color:#FF9CCE;">⭑.ᐟ Estagiária de desenvolvimento de software na TOTVS</span></b><br>
-<b><span style="color:#FF9CCE;">⋆˚࿔ Iniciando os estudos em Cypress</span></b>
+![Cursando](https://img.shields.io/badge/Cursando-ADS-FF9CCE?style=for-the-badge&logo=book)
+![Estagiária](https://img.shields.io/badge/Estagiária-TOTVS-FF9CCE?style=for-the-badge&logo=totvs)
+![Cypress](https://img.shields.io/badge/Cypress-Estudos-FF9CCE?style=for-the-badge&logo=cypress)
 
 
 <div align="center" style="display: flex; justify-content: center;">
