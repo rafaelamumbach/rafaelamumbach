@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
 
-<code>printf(⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS");</code><br>
-<code>printf(⭑.ᐟ  Estagiária de desenvolvimento de software na TOTVS");</code><br>
-<code>printf(⋆˚࿔  Iniciando os estudos em Cypress);</code>
+⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS
+⭑.ᐟ  Estagiária de desenvolvimento de software na TOTVS
+⋆˚࿔  Iniciando os estudos em Cypress
 
 
 <div align="center" style="display: flex; justify-content: center;">
@@ -30,7 +30,7 @@
   <img align="center" alt="ANGULARJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="POSTGRE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="center" alt="CYPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-plain.svg">
+  <img align="center" alt="CYPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg">
 </div>
 
 <h4 align="left">Conexões </h4>
