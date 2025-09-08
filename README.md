@@ -8,6 +8,7 @@
 <h4 align="center">Estudante e estagiária de desenvolvimento de software ⊹ ࣪ ˖</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
+![Trabalhando em...](https://img.shields.io/badge/Trabalhando%20em...-Cypress-FF9CCE?style=for-the-badge&logo=cypress)
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas na UCS<br>
 - 👩🏻‍💻 Estagiária de desenvolvimento de software na TOTVS<br>
