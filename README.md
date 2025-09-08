@@ -5,13 +5,13 @@
 </div>
 
 <h3 align="center"><code>printf("Olá, mundo!");</code></h3>
-<h4 align="center">Estudante e estagiária de desenvolvimento de software </h4>
+<h4 align="center">Estudante e estagiária de desenvolvimento de software ⊹ ࣪ ˖</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
 
-⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS<br>
-⊹ ࣪ ˖ Estagiária de desenvolvimento de software na TOTVS<br>
-⊹ ࣪ ˖ Iniciando os estudos em Cypress<br>
+- 💻 Cursando Análise e Desenvolvimento de Sistemas na UCS<br>
+- 🤓 Estagiária de desenvolvimento de software na TOTVS<br>
+- 📝 Iniciando os estudos em Cypress<br>
 
 
 <div align="center" style="display: flex; justify-content: center;">
