@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamumbach&label=Profile%20views&color=FF9CCE&style=flat" alt="rafaelamumbach" /></p>
 
-<code>- ⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS</code><br>
-<code>- ⭑.ᐟ Estagiária de desenvolvimento de software na TOTVS</code><br>
-<code>- ⋆˚࿔ Iniciando os estudos em Cypress</code><br>
+<code>⊹ ࣪ ˖ Cursando Análise e Desenvolvimento de Sistemas na UCS</code><br>
+<code>⭑.ᐟ Estagiária de desenvolvimento de software na TOTVS</code><br>
+<code>⋆˚࿔ Iniciando os estudos em Cypress</code><br>
 
 <div align="center" style="display: flex; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&bg_color=0d1117&text_color=c9d1d9&title_color=FF9CCE&icon_color=FF9CCE""/>
