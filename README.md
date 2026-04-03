@@ -6,11 +6,6 @@
 
 <h4 align="center"><code>Estudante; estagiária de desenvolvimento de software</code></h4>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelamumbach&show_icons=true&bg_color=0d1117&text_color=c9d1d9&title_color=FF9CCE&icon_color=FF9CCE""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamumbach&layout=compact&langs_count=16&bg_color=0d1117&text_color=c9d1d9&title_color=FF9CCE&icon_color=FF9CCE"/>
-</div>
-
 <h4 align="left">Linguagens e tecnologias </h4>
 
 <div style="display: inline_block"><br>
