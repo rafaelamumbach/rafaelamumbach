@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/Canva-ffffff?style=for-the-badge&logo=canva&logoColor=black">
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black">
