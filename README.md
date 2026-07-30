@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h4 align="center"><code>Estudante; estagiária de desenvolvimento de software</code></h4>
+<h4 align="center"><code>estudante e desenvolvedora</code></h4>
 
 <br>
 
