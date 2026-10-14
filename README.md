@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h4 align="center"><code>estudante, técnica de desenvolvimento de software e player de social sims nas horas vagas</code></h4>
+<h4 align="center"><code>Estudante, técnica de desenvolvimento de software e player de social sims nas horas vagas</code></h4>
 
 <br>
 
